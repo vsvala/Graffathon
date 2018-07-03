@@ -1,6 +1,7 @@
 # Graffathon_2018
 
-My first demoscene [Dotty](https://www.youtube.com/watch?v=_Dz8-_Y5Ny0)
+My first demoscene Dotty. [Link to youtube play](https://www.youtube.com/watch?v=_Dz8-_Y5Ny0)
+
 Graphics are made using Processing. Music and visuals are synced with Rocket tool and Moonlander library.
 
 Used music:
